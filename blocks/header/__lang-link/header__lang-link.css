@@ -13,11 +13,9 @@
   border-bottom: 1.7px solid #fff;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 767px) {
   .header__lang-link {
-    margin-bottom: 6px;
     font-size: 18px;
     line-height: 1.1;
-    text-decoration: none;
   } 
 }

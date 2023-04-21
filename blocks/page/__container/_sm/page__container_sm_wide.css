@@ -1,0 +1,6 @@
+@media screen and (max-width: 767px) {
+  .page__container_sm_wide {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
