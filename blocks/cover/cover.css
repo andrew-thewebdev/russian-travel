@@ -1,0 +1,13 @@
+.cover {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ 
+  /* margin: auto; */
+  /* min-width: 1184px; */
+  /* max-width: 1184px; */
+  /* min-height: 940px; */
+  /* max-height: 740px; */
+  
+}
